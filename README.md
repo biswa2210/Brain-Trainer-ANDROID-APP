@@ -28,7 +28,7 @@
  
 
        
-## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1oWa9ZBfbnRb4JFa-2zTFMaAJbEsiVub9/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
