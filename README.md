@@ -55,30 +55,10 @@
 mocktail-recipe-finder
        ├── assets
        |     ├── fonts
-       |     |     ├── CT.ttf
-       |     |     ├── LG.ttf
-       |     |     ├── OS.ttf
-       |     |     ├── PH.ttf
-       |     |     └── SM.ttf
-       |     └── images
-       |           ├── attachment.gif
-       |           └── loading.gif
+
        └── lib 
              ├── models
-             |      ├── catagories.dart
-             |      ├── mocktails.dart
-             |      └── mocktail_datas.dart
-             ├── screens
-             |      ├── catagori_mocktails_screen.dart
-             |      ├── catagories_screens.dart
-             |      ├── favorite_screen.dart
-             |      ├── filters_screen.dart
-             |      ├── mocktail_recipe_details.dart
-             |      └── tabs_screen.dart
-             ├── widgets
-             |      ├── catagory_item.dart
-             |      ├── main_drawer.dart
-             |      └── movktail_details.dart
+  
              ├── name.dart
              └── main.dart
  ```                      
