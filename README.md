@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Dart-Math-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material-UI-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sdk-%22%3E%3D2.7.0%20%3C3.0.0%22-purple)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/cupertino__icons-%5E0.1.3-maroon)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/splashscreen-%5E1.2.0-blueviolet)](https://shields.io/)
 
-***This new Flutter application named 'MOCKTAIL_RECIPES' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new android application named 'BRAIN-TRAINER-APP' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -70,18 +70,6 @@ mocktail-recipe-finder
 
 </div>
 
-## Getting Started :point_down: 
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots :point_down: 
 
