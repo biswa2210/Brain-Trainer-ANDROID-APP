@@ -17,7 +17,8 @@
 ## About :point_down: 
 
 <div align="justified">
-       
+ 
+This Brain Trainer android application is created with java. Here if we open this app and start by clickin on the button a mcq test will be started with questions of sums. Here we have to choose the correct answer. For 30 seconds this test wil continue then we will get the score out of no. of questions attended the no. of correct answers. This test is to check our speed and attentiveness.
 
 </div>
 
@@ -36,13 +37,6 @@
        
 
 </div>
-
-## Use :point_down:
-
-<div align="justified">
-       
-
-</div>      
        
 ## Importance :point_down:
 
