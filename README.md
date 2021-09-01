@@ -65,7 +65,7 @@ I have created main 3 java files to create this android app.
   
 <a href="pics/bt1.jpeg"><img src="pics/bt1.jpeg" width="250" height= "450"></a> <a href="pics/bt2.jpeg"><img src="pics/bt2.jpeg" width="250" height= "450"></a> <a href="pics/bt3.jpeg"><img src="pics/bt3.jpeg" width="250" height= "450"></a>
  
-<a href="pics/bt4.jpeg"><img src="pics/bt4.jpeg" width="250" height= "450"></a> <a href="pics/bt.jpeg"><img src="pics/bt2.jpeg" width="250" height= "450"></a> <a href="pics/bt3.jpeg"><img src="pics/bt3.jpeg" width="250" height= "450"></a>
+<a href="pics/bt4.jpeg"><img src="pics/bt4.jpeg" width="250" height= "450"></a> <a href="pics/bt5.jpeg"><img src="pics/bt5.jpeg" width="250" height= "450"></a> <a href="pics/bt6.jpeg"><img src="pics/bt6.jpeg" width="250" height= "450"></a>
        
 </div>
 
