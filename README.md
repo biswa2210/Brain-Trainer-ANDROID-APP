@@ -54,7 +54,7 @@ brain-trainer-android-app
 
 <div align="justified">
 
-I have created main 3 java files to create this android app. 
+I have created main 3 java files to create this android app. I have created MainActivity.java, gointent.java, splashscreen.java and created some logics for implementation of this app. 
 
 </div>
 
