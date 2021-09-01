@@ -41,21 +41,20 @@ People of all ages use these games to improve mental functioning and prevent bra
 
 ## Folder Structure :point_down:
 ```bash
-mocktail-recipe-finder
-       ├── assets
-       |     ├── fonts
-
-       └── lib 
-             ├── models
-  
-             ├── name.dart
-             └── main.dart
+brain-trainer-android-app
+      └── app
+           └── src
+                └── main
+                      └── java/com/example/braintrainer
+                                     ├── MainActivity.java
+                                     ├── gointent.java
+                                     └── splashscreen.java   
  ```                      
-
 ## Making :point_down:
 
 <div align="justified">
 
+I have created main 3 java files to create this android app. 
 
 </div>
 
