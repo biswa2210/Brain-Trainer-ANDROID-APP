@@ -18,30 +18,25 @@
 
 <div align="justified">
  
-This Brain Trainer android application is created with java. Here if we open this app and start by clickin on the button a mcq test will be started with questions of sums. Here we have to choose the correct answer. For 30 seconds this test wil continue then we will get the score out of no. of questions attended the no. of correct answers. This test is to check our speed and attentiveness.
+This Brain Trainer android application is created with java. Brain training games ask players to complete tasks that practice specific cognitive skills like memory, attention, logic, and quick thinking.Here if we open this app and start by clicking on the button 'GET STARTED', a mcq test will be started with questions of sums. Here we have to choose the correct answer among four questions. For 30 seconds this test wil continue then we will get the score out of no. of questions attended the no. of correct answers. This test is to check our speed and attentiveness. As much our score is as fast we can work. Here I have designed the app with an arc reacter which starts at the beginning of the test and stops at the end. We can start the test again by clicking on the button 'PLAY AGAIN'. This app is very easy to use and helpful to check our speed.
 
 </div>
 
-## Catagories of Mocktails in this app :point_down:
-
- - [x] 'Non-Alcoholic'
- - [x] 'Alcoholic'
- 
-
-       
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1oWa9ZBfbnRb4JFa-2zTFMaAJbEsiVub9/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
 <div align="justified">
        
-
+I have made this brain trainer android application for people of any ages for checking their speed and attentiveness.
 </div>
        
 ## Importance :point_down:
 
 <div align="justified">
 
+People of all ages use these games to improve mental functioning and prevent brain aging. Brain training may help improve your memory, response time, and logic skills, although research shows that the relationship between brain training games and improved cognitive function is complicated. Although brain games might not have the magical benefits you hoped for, they are not a total wash. Turns out, by playing a certain game over and over again, you are actually changing the way your brain works. “The benefits engendered by video game play are often the result of neuroplasticity, the ability of the brain to modify its structure, chemistry, and function in response to a challenge."
+ 
 </div>
 
 ## Folder Structure :point_down:
