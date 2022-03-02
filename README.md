@@ -22,7 +22,7 @@ This Brain Trainer android application is created with java. Brain training game
 
 </div>
 
-## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1oWa9ZBfbnRb4JFa-2zTFMaAJbEsiVub9/view" download>Click here to download</a>
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1D-G6M5COVPIZjsl4fw65zg6A7oe0gPT-/view" download>Click here to download</a>
 
 ## Purpose :point_down:
 
