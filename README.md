@@ -21,6 +21,9 @@
 This Brain Trainer android application is created with java. Brain training games ask players to complete tasks that practice specific cognitive skills like memory, attention, logic, and quick thinking.Here if we open this app and start by clicking on the button 'GET STARTED', a mcq test will be started with questions of sums. Here we have to choose the correct answer among four questions. For 30 seconds this test wil continue then we will get the score out of no. of questions attended the no. of correct answers. This test is to check our speed and attentiveness. As much our score is as fast we can work. Here I have designed the app with an arc reacter which starts at the beginning of the test and stops at the end. We can start the test again by clicking on the button 'PLAY AGAIN'. This app is very easy to use and helpful to check our speed.
 
 </div>
+## BRAIN TRAINER DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG&index=1&t=32s">Click here to watch</a>
+
+## ANDROID PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG">Click here to watch</a>
 
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1D-G6M5COVPIZjsl4fw65zg6A7oe0gPT-/view" download>Click here to download</a>
 
